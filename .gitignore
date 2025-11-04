@@ -229,3 +229,4 @@ test_llm.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+src/credentials/*.json
