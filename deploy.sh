@@ -5,7 +5,7 @@ FUNCTION_NAME="asistente-gastos"
 REGION="us-east-1"
 ACCOUNT_ID="039412445563"
 REPO_NAME="asistente-gastos"
-TAG="v2"
+TAG="v3"
 
 # ==== CONSTRUCCIÓN Y ENVÍO DE LA IMAGEN ====
 echo "🔧 Construyendo imagen Docker..."
